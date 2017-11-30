@@ -4,7 +4,6 @@
 This front-end Windows form represents a customer checkout application at a grocery store.
 
 **Detailed Description:**<br>
-
 After initial sign on, cashier can add/subtract different quantities of various products in the store by
 pressing the image of the item to check out.  A fruit selection enables the fruit 
 subcategory area.  Totals for individual products and the final bill amount are 
