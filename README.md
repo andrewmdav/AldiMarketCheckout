@@ -12,7 +12,7 @@ for the next customer, or sign off.  File clsProducts.vb contains the core produ
 quantities, while file clsProducts.Fruit.vb contains the same information for fruit subcategory items.
 
 **File Arrangement:**<br>
-Highlighted below are the critical files for running the project and reviewing the code:
+Listed below are the critical files for running the project and reviewing the code:
 	
 	Program Execution:
 	-Published Application: 		~ApplicationExecutable\setup.exe
